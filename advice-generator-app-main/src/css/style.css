@@ -20,12 +20,17 @@ body {
     border-top-right-radius: 15px;
     align-content: space-evenly;
     height: 380px;
-    background-color: #4c504a;
     display: flex;
     flex-direction: column;
     align-items: center;
     position: relative;  
 }
+
+.cartao, .icone, button {
+    background-color:  #4c504a;
+
+}
+
 
 .titulo {
     font-size: 27px;
@@ -48,7 +53,7 @@ body {
     margin-bottom: 30px;
 }
 
-button.icone {
+button{
     background: none;
     border: none;
     cursor: pointer;
@@ -59,7 +64,6 @@ button.icone {
     border-bottom-right-radius: 15px;
     width: 500px;
     height: 12px;
-    background-color: #4c504a;
     position: relative;
     display: flex;
     align-items: center;
