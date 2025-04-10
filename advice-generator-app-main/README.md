@@ -18,3 +18,5 @@ Como esse foi meu primeiro projeto fazendo sozinha, então no inicio achei um po
 
 ##Visualização
 
+![Demonstração do projeto] (./src/images/geradordeconselhos-visualizaoFeitocomoClipchamp-ezgif.com-video-to-gif-converter.gif)
+
