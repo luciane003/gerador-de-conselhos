@@ -1,4 +1,4 @@
-# Gerador de Conselhos
+# Gerador de Conselhos 💫
 
 ## Sobre o projeto
 
