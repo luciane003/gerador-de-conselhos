@@ -67,6 +67,11 @@ button:focus {
     cursor: pointer;
 }
 
+button:focus-visible {
+    outline: none;
+    box-shadow: none;
+}
+
 .icone {
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
