@@ -30,7 +30,7 @@ body {
     position: relative;  
 }
 
-.cartao, .icone{
+.cartao, .icone, button{
     background-color:  #4c504a;
 
 }
