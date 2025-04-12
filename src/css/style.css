@@ -20,8 +20,7 @@ body {
 }
 
 .cartao {
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
+    border-radius: 15px;
     align-content: space-evenly;
     height: 380px;
     display: flex;
@@ -30,7 +29,7 @@ body {
     position: relative;  
 }
 
-.cartao, .icone, button{
+.cartao, .icone{
     background-color:  #4c504a;
 
 }
@@ -74,7 +73,7 @@ button, button:focus-visible, button:active  {
     border-bottom-right-radius: 15px;
     width: 100%;
     max-width: 500px;
-    height: 12px;
+    height: 0;
     position: relative;
     display: flex;
     align-items: center;
