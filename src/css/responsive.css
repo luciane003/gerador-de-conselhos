@@ -1,32 +1,16 @@
 @media(max-width: 480px) {
-    .cartao, .icone {
-        width: 100%;
-        max-width:400px;
-        margin: 0 auto;
-    }
-
-    .cartao {
-        height: 600px;
+    body {
+        padding: 10px;
     }
 
     .barra {
-        margin-top: 100px;
-    }
+        margin-top: 10px;
+        margin-bottom: 50px;
+    } 
 }
 
 @media(max-width: 435px) {
     .cartao {
-        height: 500px;
-    }
-
-    .barra {
-        margin-top: 40px;
-        margin-bottom: 30px;
-    } 
-}
-
-@media(max-width: 395px) {
-    .cartao, .icone {
-        max-width: 350px;
+        height: auto;
     }
 }
