@@ -7,7 +7,7 @@ Funcionalidades dinâmicas serão adicionadas futuramente, conforme eu evoluir n
 
 ## Desafios
 
-Como esse foi meu primeiro projeto fazendo sozinha, então no inicio achei um pouco dificil mas depois fui praticando cada vez mais e foi ficando mais tranquilo.
+Esse foi o meu primeiro projeto feito totalmente sozinha. No início, achei um pouco desafiador, mas com a prática constante tudo foi se tornando mais claro e natural. A cada passo, fui ganhando mais confiança e o desenvolvimento ficou cada vez mais tranquilo.
 
 ## Tecnologias usadas
 
