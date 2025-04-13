@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Ele é um projeto visual um Gerador de Conselhos, no momento o botão é apenas uma simulção de funcionalidade ao clicar nenhuma nova frase é gerada, pois as funcionalidades interativas ainda não foram implementadas. Isso ocorre porque, até o estágio atual do meu curso, ainda não aprendi JavaScript 
+Ele é um projeto visual um Gerador de Conselhos, no momento o botão é apenas uma simulação de funcionalidade ao clicar nenhuma nova frase é gerada, pois as funcionalidades interativas ainda não foram implementadas. Isso ocorre porque, até o estágio atual do meu curso, ainda não aprendi JavaScript 
 Funcionalidades dinâmicas serão adicionadas futuramente, conforme eu evoluir nos estudos.
 
 ## Desafios
