@@ -18,5 +18,5 @@ Esse foi o meu primeiro projeto feito totalmente sozinha. No início, achei um p
 
 ## Visualização
 
-![Demonstração do projeto](./src/imagens/geradordeconselhos-visualizaoFeitocomoClipchamp-ezgif.com-video-to-gif-converter.gif)
+![Demonstração do projeto](./src/imagens/visualização-projeto-tela-login.gif)
 
