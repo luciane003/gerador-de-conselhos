@@ -18,5 +18,5 @@ Esse foi o meu primeiro projeto feito totalmente sozinha. No início, achei um p
 
 ## Visualização
 
-![Demonstração do projeto](./src/design/visualização-projeto-tela-login.gif)
+![Demonstração do projeto](./src/design/visualização-projeto-gerador-conselhos.gif)
 
