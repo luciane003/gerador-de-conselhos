@@ -9,6 +9,9 @@ Funcionalidades dinâmicas serão adicionadas futuramente, conforme eu evoluir n
 
 Esse foi o meu primeiro projeto feito totalmente sozinha. No início, achei um pouco desafiador, mas com a prática constante tudo foi se tornando mais claro e natural. A cada passo, fui ganhando mais confiança e o desenvolvimento ficou cada vez mais tranquilo.
 
+## Demonstração
+[Acesse a versão online do projeto]()
+
 ## Tecnologias usadas
 
 <div style="display: inline_block">
