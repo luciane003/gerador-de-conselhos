@@ -10,8 +10,7 @@ Funcionalidades dinâmicas serão adicionadas futuramente, conforme eu evoluir n
 Esse foi o meu primeiro projeto feito totalmente sozinha. No início, achei um pouco desafiador, mas com a prática constante tudo foi se tornando mais claro e natural. A cada passo, fui ganhando mais confiança e o desenvolvimento ficou cada vez mais tranquilo.
 
 ## Projeto no ar
-Acesse a versão online do projeto
-[Projeto online](https://luciane003.github.io/gerador-de-conselhos/)
+Acesse a versão online do [projeto](https://luciane003.github.io/gerador-de-conselhos/)
 
 ## Funcionalidades
 - Layout responsivo
