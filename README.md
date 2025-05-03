@@ -15,7 +15,7 @@ Acesse a versão online do [projeto](https://luciane003.github.io/gerador-de-con
 ## Funcionalidades
 - Layout responsivo
 - Futuramente irá gerar vários conselhos
-- Botao que brilha ao ser clicado
+- Botão que brilha ao ser clicado
 
 ## Tecnologias usadas
 
