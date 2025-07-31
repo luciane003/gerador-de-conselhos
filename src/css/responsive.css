@@ -3,14 +3,14 @@
         padding: 10px;
     }
 
-    .barra {
+    .bar {
         margin-top: 10px;
         margin-bottom: 50px;
     } 
 }
 
 @media(max-width: 435px) {
-    .cartao {
+    .card {
         height: auto;
     }
 }

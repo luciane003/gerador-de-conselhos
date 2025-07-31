@@ -19,46 +19,62 @@ body {
     height: 400px;
 }
 
-.cartao {
+.card {
     border-radius: 15px;
-    align-content: space-evenly;
-    height: 380px;
     display: flex;
+    height: 380px;
     flex-direction: column;
     align-items: center;
     position: relative;  
 }
 
-.cartao, .icone{
+.card, .icon{
     background-color:  #4c504a;
 
 }
 
 
-.titulo {
+.title {
     font-size: 27px;
     margin: 20px;
     font-family: "montserrat", sans-serif;
     color: #23b513;
 }
 
-#texto {
+#message {
     font-size: 23px;
-    margin: 10px;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin: 3rem 2rem;
+    text-align: center;
     font-family: "roboto mono", sans-serif;
     color: white;
+    transition: color 0.3s ease;
 }
 
-.barra {
-    margin-top: 40px;
-    margin-bottom: 30px;
+#message.loading {
+    color: #f39c12;
+    font-style: italic;
 }
+
+#message.sucess {
+    color: #2ecc71;
+    font-weight: bold;
+}
+
+#message.error {
+   color: #e74c3c;
+   font-weight: bold; 
+}
+
+.bar {
+    position: absolute;
+    top: 70%;
+}
+
 
 button{
     cursor: pointer;
 }
+
 button, button:focus-visible, button:active  {
     border: none;
     outline: none;
@@ -68,7 +84,7 @@ button, button:focus-visible, button:active  {
     -webkit-focus-ring-color: transparent;
 }
 
-.icone {
+.icon {
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     width: 100%;
@@ -81,24 +97,24 @@ button, button:focus-visible, button:active  {
     justify-content: center;
 }
 
-.imagem-fundo {
+.background-image {
     transition: 0.3s ease-in-out;
     border-radius: 50%;
     width: 80px ;
     height: auto;
 }
 
-.imagem-fundo:hover{
+.background-image:hover{
     box-shadow: 0px 0px 20px 10px #23b513;  
 }
 
-.imagem-sobreposto {
+.superimposed-image {
     position: absolute;
     max-width: 30px;
     width: 100%;
     height: 30px;
 }
 
-.icone:hover .imagem-fundo {
+.icon:hover .background-image {
     box-shadow: 0px 0px 20px 10px #23b513;
 }
