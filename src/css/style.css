@@ -22,7 +22,7 @@ body {
 .card {
     border-radius: 15px;
     display: flex;
-    height: 380px;
+    min-height: 380px;
     flex-direction: column;
     align-items: center;
     position: relative;  
@@ -33,17 +33,23 @@ body {
 
 }
 
-
 .title {
     font-size: 27px;
-    margin: 20px;
+    margin: 20px 0 2px 0;
     font-family: "montserrat", sans-serif;
     color: #23b513;
 }
 
+.div-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 200px;
+    padding: 0 10px; 
+}
+
 #message {
     font-size: 23px;
-    margin: 3rem 2rem;
     text-align: center;
     font-family: "roboto mono", sans-serif;
     color: white;
@@ -67,9 +73,8 @@ body {
 
 .bar {
     position: absolute;
-    top: 70%;
+    bottom: 25%;
 }
-
 
 button{
     cursor: pointer;

@@ -4,9 +4,8 @@
     }
 
     .bar {
-        margin-top: 10px;
-        margin-bottom: 50px;
-    } 
+        bottom: 18%;
+    }
 }
 
 @media(max-width: 435px) {
